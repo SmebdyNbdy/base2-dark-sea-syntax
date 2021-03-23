@@ -3,16 +3,17 @@
 Based on [Base2Tone Sea](https://base2t.one/demo/sea/) colorscheme, which in turn is inspired by Simurai's [DuoTone themes](http://simurai.com/projects/2016/01/01/duotone-themes) and utilizes [Base16 Builder](https://github.com/base16-builder/base16-builder) to produce output theme.
 
 ## Screenshots:
+Font used in the screenshots – Victor Mono. A theme is a work-in-progress hybrid of Atom One Dark and Apex UI.
 
-### JavaScript:
+#### JavaScript:
 
 ![theme screenshot JS](https://scapi.gavrikov.me/js.png)
 
-### PostCSS:
+#### PostCSS:
 
 ![theme screenshot PostCSS](https://scapi.gavrikov.me/postcss.png)
 
-### Swift:
+#### Swift:
 
 ![theme screenshot Swift](https://scapi.gavrikov.me/swift.png)
 
