@@ -1,0 +1,21 @@
+{
+  "name": "base2-dark-sea-syntax",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "Dark syntax theme based on Base2 Sea color scheme, built using Base16",
+  "keywords": [
+    "syntax",
+    "dark",
+    "plain",
+    "blue",
+    "turquoise",
+    "duotone",
+    "base16",
+    "theme"
+  ],
+  "repository": "https://github.com/SmebdyNbdy/base2-dark-sea-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
